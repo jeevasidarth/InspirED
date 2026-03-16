@@ -59,7 +59,7 @@ InspirED is a comprehensive educational platform that leverages AI to provide pe
 
 ### Configuration
 - Ensure your Firebase `serviceAccountKey.json` is present in the `backend/` directory.
-- Ensure Ollama is running locally.
+- Ensure Ollama is running locally in your system.
 
 ## Security
 The project is configured with a `.gitignore` to protect sensitive data like API keys and service accounts. Do not commit `serviceAccountkey.json`.
